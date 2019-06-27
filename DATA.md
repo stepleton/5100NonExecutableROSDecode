@@ -6,10 +6,6 @@ differences in texture identify portions filled with System/3 (top) and
 System/360 (middle and bottom) machine code. Some native IBM 5100 code is also
 present._
 
-| :warning: Content warning :warning: |
-|:-----------------------------------:|
-|               BORING                |
-
 This document provides altogether too much detail about the non-executable ROS
 data recovered from an [IBM 5100 portable computer](
 https://en.wikipedia.org/wiki/IBM_5100) with APL and BASIC language options
@@ -73,7 +69,7 @@ for the ROS to work succeeds:
 ; http://computermuseum.informatik.uni-stuttgart.de/dev/ibm_5110/technik/en/rosread.html
 ; Modifications:
 ;   - 0B14: changing $4000 to $2000 to accommodate my 5100's smaller RWS
-;   - 0B1A,0B1C,0B20,0B22: extra NOPs to give the executable ROS extra time
+;   - 0B1A,0B1C,0B20,0B22: extra NOPs to give the non-executable ROS extra time
 ;   - 0B30: change jump address to accommodate extra NOPs
 
 		Start:
