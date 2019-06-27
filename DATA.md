@@ -41,7 +41,7 @@ for some common utility code and the BASIC interpreter, the other for the APL
 interpreter. The process I used to recover the ROS data involved reading
 portions of each bank into the 5100's RAM (or RWS = "read/write storage" in
 IBM-speak), then transferring the data from there into a modern computer using
-an elaborate procedure to be described elsewhere.
+[an elaborate procedure described in a separate write-up](WRITEUP.md).
 
 When the 5100 processor wants to read data from one of the banks, it uses an
 I/O "control" instruction to choose which one, then two "put" instructions to
