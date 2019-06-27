@@ -38,12 +38,6 @@ be as minimally-invasive as possible.
 In accomplishing this recovery I may have used more compute than all the IBM
 5100s ever built have carried out over the past 44 years.
 
-| :warning: Content warning :warning: |
-|:-----------------------------------:|
-|               BORING                |
-
-Take care: this write-up is pretty boring.
-
 ## Table of contents
 
 * [The non-executable ROS in more detail, and stage 1](
