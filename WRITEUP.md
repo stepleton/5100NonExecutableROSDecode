@@ -1356,3 +1356,21 @@ discussion (but then will there be any traffic at all?)._
 The body of the comment goes here. This is a pretty practical way to host a
 discussion forum, for sure! Just remember that the most important thing is to
 include the backslash character after your title.
+
+Reading an ibm5100 ROS card\
+
+Hello Mr. Stepleton,
+
+First, thank you very much for your fantastic and tremendous work on recovering the ibm ROS.
+
+My question is the following. Do you have the timings/protocol to read the ROS card?
+
+I'm trying to read my Basic ROS (Slot C4-C2) using a Teensy (Arduino), but no luck yet. My goal would be to build a card using a standard Flash/EEPROM chip if at all possible.
+
+If you're interested, I could attach a picture of my messy wires connections and the source code (.ino) for the Teensy. (Keep in mind that I'm at the beginning stage of trying to read the card)
+
+Thank you very much.
+
+Best regards.
+
+Patrick.
